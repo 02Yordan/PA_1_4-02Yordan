@@ -1,6 +1,5 @@
 # My Table
 
-
 | City | Country | Population |
 | :- | :-: | -: |
 | Barcelona | Spain | 1,62 million |
